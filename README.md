@@ -6,15 +6,15 @@ Say goodbye to the risks of using random websites for your essential development
 
 **Color Picker**: Quickly find and choose the perfect color for your project. RavitUp color picker lets you select, adjust, and copy color values in various formats including HEX, RGB, and HSL.
 
-![Color Picker](/Screenshot1.jpg)
+![Color Picker](/RavitUp-App/Screenshot1.jpg)
 
 **Markdown Viewer**: Easily render and preview your Markdown files. With RavitUp, you can view your documentation, README files, and notes with accurate formatting, all without leaving your development environment.
 
-![Markdown Viewer](/Screenshot2.jpg)
+![Markdown Viewer](/RavitUp-App/Screenshot2.jpg)
 
 **JSON Viewer**: Simplify your data handling with our JSON viewer. Format, validate, and analyze your JSON files effortlessly. The viewer provides a clear, hierarchical view of your data structures, making it easy to debug and understand complex JSON files.
 
-![JSON Viewer](/Screenshot3.jpg)
+![JSON Viewer](/RavitUp-App/Screenshot3.jpg)
 
 ### Why RavitUp?
 
