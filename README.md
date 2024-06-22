@@ -1,5 +1,3 @@
-# RavitUp
-
 Say goodbye to the risks of using random websites for your essential development tasks. RavitUp brings together a suite of useful tools right to your desktop, ensuring your code and data stay offline, secure, and accessible even without an internet connection.
 
 ### Key Features
